@@ -14,6 +14,7 @@ public class Conflict
     public void meregeConfilct()
     {
         System.out.println("Sander");
+        System.out.println("Victor");
 
     }
 }
