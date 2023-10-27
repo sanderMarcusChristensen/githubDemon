@@ -1,11 +1,20 @@
 package org.example;
 
-public class Conflict {
+public class Conflict
+{
 
-    public Conflict() {
+
+
+    public Conflict()
+    {
+
+
     }
 
-    public void mergeConflict() {
+    public void meregeConfilct()
+    {
+        System.out.println("Sander");
         System.out.println("Victor");
+
     }
 }
